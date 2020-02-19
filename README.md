@@ -2,7 +2,7 @@
 tool download vidio dan poto dari instagram
 # Screenshots
 ____
-![Screenshots]()
+![Screenshots](https://github.com/ransomboys/ig-downloader/blob/master/IMG_20200219_185452.jpg)
 ____
 # Cara Install
 ____
