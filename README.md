@@ -13,7 +13,7 @@ ____
 * ```cd ig-downloader```
 * ```python3 dwig.py```
 # Cara menggunakan
-* ```pyrhon3 dwig.py```
+* ```python3 dwig.py```
 * ```jangan close termuxnya```
 * ```buka aplikasi instagram```
 * ```cari status yang ingin anda download```
